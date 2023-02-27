@@ -47,9 +47,35 @@ main {
     margin-top: 1%;
  }
 
- .crediti {
+ .credits {
     font-size: 12px;
-    margin:0%;
+margin: 0px;}
+
+.articolo {
+    margin-bottom: 10px;
+    font-size: 20px;
 }
 
+.evidenzia {
+    font-size: 18px;
+    background-color: greenyellow;
+    background-size: 100px;
+}
 
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+table th{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.color-table{
+    background-color: lightskyblue;
+}
+
+.width-td{
+    width: 25%;
+}
