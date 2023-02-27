@@ -29,18 +29,14 @@ main {
     }
 
 
-.autore {
+.autorearticolo, .articolodata {
     color: gray;
     font-size: 16px;
     margin-top: 0px;
     margin-bottom: 0px;
  }
 
- data {
-    color: gray;
-    font-size: 16px;
-    margin-top: 0%;
-    margin-bottom: 0%;
+ 
  }
 
  .fototim {
@@ -99,4 +95,8 @@ table th{
     color: white;
     font-size: 20pt;
     font-weight: 800;
+}
+
+h2 {
+    color: ;
 }
