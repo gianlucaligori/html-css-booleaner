@@ -81,18 +81,18 @@ table th{
     width: 25%;
 }
 
-.container {
+aside > div {
     width: auto;
     height: 200px;
     background-repeat: no-repeat;
     margin-bottom: 5px;
 } 
 
-.first {
-    background-image: url(../img/monitor.jpg);
+.firstcontainer {
+    background-image: url(../img/monitor.jpg)
 }
 
-.second {
+.secondcontainer {
     background-image: url(../img/graph.jpg)
 }
 

@@ -12,7 +12,7 @@ header {
     margin: auto;
     height: 100%;
     background-color: #4EA0FF;
-    background-image: url(../bonus/img/pattern.png);
+    background-image: url(img/pattern.png);
     background-size: 20% 200%;
     }
 
@@ -87,24 +87,19 @@ table th{
     width: 25%;
 }
 
-aside {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-.container {
+aside > div {
     width: auto;
     height: 200px;
     background-repeat: no-repeat;
     margin-bottom: 5px;
 } 
 
-.first {
-    background-image: url(../img/monitor.jpg);
+#first {
+    background-image: url(img/monitor.jpg);
 }
 
-.second {
-    background-image: url(../img/graph.jpg)
+#second {
+    background-image: url(img/graph.jpg);
 }
 
 .relatedlinks {
