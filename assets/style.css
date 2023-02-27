@@ -7,7 +7,7 @@ header {
     margin: auto;
     height: 100%;
     background-color: #4EA0FF;
-    background-image: url(img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-size: 20% 200%;
     }
 
@@ -29,14 +29,18 @@ main {
     }
 
 
-.autorearticolo, .articolodata {
+.autore {
     color: gray;
     font-size: 16px;
     margin-top: 0px;
     margin-bottom: 0px;
  }
 
- 
+ data {
+    color: gray;
+    font-size: 16px;
+    margin-top: 0%;
+    margin-bottom: 0%;
  }
 
  .fototim {
@@ -84,19 +88,15 @@ table th{
 } 
 
 .first {
-    background-image: url(img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
 }
 
 .second {
-    background-image: url(img/graph.jpg);
+    background-image: url(../img/graph.jpg)
 }
 
 .relatedlinks {
     color: white;
     font-size: 20pt;
     font-weight: 800;
-}
-
-h2 {
-    color: ;
 }
