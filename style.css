@@ -1,0 +1,19 @@
+body {
+    margin: auto;
+    }
+    
+    /* Sfondo del logo testata*/
+    header {
+    margin: auto;
+    height: 100%;
+    background-color: #4EA0FF;
+    background-image: url(../html-css-booleaner/img/pattern.png);
+    background-size: 20% 200%;
+    }
+
+    /* Logo testata */
+    .logo {
+    max-width: 15%; 
+    margin-left: 1%; 
+    margin-top: 2%;
+    }
